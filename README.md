@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🤯 I study Software Development at university
+- 🌱 I'm currently learning Python, JavaScript, CSS
