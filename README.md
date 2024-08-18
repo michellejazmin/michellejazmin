@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 - 🤯 I study Software Development at university
 - 🌱 I'm currently learning Python, JavaScript, CSS
+- ⚔️ I'm also (slowly) following [The Odin Project](https://www.theodinproject.com/)'s curriculum
